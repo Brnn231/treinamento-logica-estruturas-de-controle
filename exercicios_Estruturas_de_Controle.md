@@ -9,6 +9,9 @@
 (x) Mostrar se é par ou impar
 -----------------------------------------------------
 2. Criar um programa informa se o ano atual é um ano bissexto;
+(x) Ler o ano
+(x) Verificar se ele é bissexto, ou seja, de 4 em 4 anos é bissexto, centenários não são bissextos
+(x) anos centenários que são divisíveis por 400, são bissextos, porque decidiram assim
 -----------------------------------------------------
 3. Criar um programa que receba duas notas parciais, calcular a média final. Se a nota do aluno for maior ou igual a 7.0 imprime no console "Aprovado", se a nota for menor que 7.0 e maior do que 4.0 imprime no console "Recuperação", caso contrário imprime no console "Reprovado".
 -----------------------------------------------------

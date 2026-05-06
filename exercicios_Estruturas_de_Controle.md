@@ -14,6 +14,9 @@
 (x) anos centenários que são divisíveis por 400, são bissextos, porque decidiram assim
 -----------------------------------------------------
 3. Criar um programa que receba duas notas parciais, calcular a média final. Se a nota do aluno for maior ou igual a 7.0 imprime no console "Aprovado", se a nota for menor que 7.0 e maior do que 4.0 imprime no console "Recuperação", caso contrário imprime no console "Reprovado".
+(x) ler duas notas
+(x) calcular media
+(x) verificar se está aprovado, de recuperação ou reprovado
 -----------------------------------------------------
 4. Criar um programa que receba um número e diga se ele é um número primo.
 -----------------------------------------------------

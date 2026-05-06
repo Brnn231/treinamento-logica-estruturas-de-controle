@@ -18,5 +18,6 @@ public class parImpar {
             else
                 System.out.printf("Seu número: %d é ímpar\n", n);
         }
+        ler.close();
     }
 }

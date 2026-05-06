@@ -10,5 +10,6 @@ public class verificarMaior {
             if (valor > maior) maior = valor;
         }
         System.out.println(maior+" é o número maior");
+        ler.close();
     }
 }

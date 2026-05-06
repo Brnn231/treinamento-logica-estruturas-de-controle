@@ -9,5 +9,6 @@ public class anoBissexto {
             System.out.printf("O ano %d é bissexto\n",ano);
         }else
             System.out.printf("O ano %d não é bissexto\n",ano);
+        ler.close();
     }
 }

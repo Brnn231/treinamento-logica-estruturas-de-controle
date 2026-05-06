@@ -25,5 +25,6 @@ public class refatorar_com_switch {
             if (ePrimo) System.out.println("O número é primo");
             }
         }
+        ler.close();
     }
 }

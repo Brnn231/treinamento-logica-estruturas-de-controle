@@ -23,5 +23,6 @@ public class media {
             System.out.println("Reprovado");
             System.out.printf("Media final: %.2f",media);
         }
+        ler.close();
     }
 }

@@ -18,5 +18,6 @@ public class numeroPrimo {
             System.out.println("O número não é primo");
         else if (ePrimo)
             System.out.println("O número é primo");
+        ler.close();
     }
 }

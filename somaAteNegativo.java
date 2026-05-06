@@ -17,5 +17,6 @@ public class somaAteNegativo {
         System.out.printf("A soma é: %.2f\n",soma);
             }
         }while (n >= 0);
+        ler.close();
     }
 }

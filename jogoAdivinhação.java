@@ -25,5 +25,6 @@ public class jogoAdivinhação {
         }
         if (tentativas == 0) 
             System.out.println("Acabou suas chances!!!!\nVocê perdeu!!!!!!!!!!!");
+        ler.close();
     }
 }

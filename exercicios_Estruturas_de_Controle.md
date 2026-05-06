@@ -26,6 +26,10 @@
 (x) feito
 -----------------------------------------------------
 6. Jogo da adivinhação: Tentar adivinhar um número entre 0 - 100. Armazene um numero aleatório em uma variável. O Jogador tem 10 tentativas para adivinhar o número gerado. Ao final de cada tentativa, imprima a quantidade de tentativas restantes, e imprima se o número inserido é maior ou menor do que o número armazenado.
+(x) gerar número
+(x) Scanner do usuário
+(x) verificar se é maior, se não é menor
+(x) contador de tentativas
 -----------------------------------------------------
 7. Criar um programa que enquanto estiver recebendo números positivos, imprime no console a soma dos números inseridos, caso receba um número negativo, encerre o programa. Tente utilizar a estrutura do while.
 -----------------------------------------------------

@@ -19,6 +19,8 @@
 (x) verificar se está aprovado, de recuperação ou reprovado
 -----------------------------------------------------
 4. Criar um programa que receba um número e diga se ele é um número primo.
+(x) ler um número
+(x) verificar se ele é primo
 -----------------------------------------------------
 5. Refatorar o exercício 04, utilizando a estrutura switch.
 -----------------------------------------------------

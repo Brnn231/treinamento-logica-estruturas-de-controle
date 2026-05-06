@@ -5,7 +5,7 @@ public class media {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         int i = 0;
-        double nota = 0, media = 0;
+        double nota, media = 0;
         for(; i < 2; i++){
             nota = ler.nextDouble();
             media += nota;

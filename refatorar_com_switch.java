@@ -6,24 +6,25 @@ public class refatorar_com_switch {
         Scanner ler = new Scanner(System.in);
         int primo = ler.nextInt(), div = 2;
         boolean ePrimo = true;
-        switch (primo){
+        switch (primo) {
             case 0:
-            case 1: System.out.println("O número não é primo");
+            case 1:
+                System.out.println("O número não é primo");
                 break;
             default:
                 if (primo < 0)
                     System.out.println("O número não é primo");
-                else{
-        while(div <= Math.sqrt(primo) && ePrimo){
-            ePrimo = true;
-            if(primo % div == 0){
-                ePrimo = false;
-                System.out.println("O número não é primo");
-            }
-            ++div;
-            }
-            if (ePrimo) System.out.println("O número é primo");
-            }
+                else {
+                    while (div <= Math.sqrt(primo) && ePrimo) {
+                        if (primo % div == 0) {
+                            ePrimo = false;
+                            System.out.println("O número não é primo");
+                        }
+                        ++div;
+                    }
+                    if (ePrimo)
+                        System.out.println("O número é primo");
+                }
         }
         ler.close();
     }
